@@ -1,0 +1,8 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+PyQt5==5.15.10
+pyotp==2.9.0
+cryptography==41.0.7
+requests==2.31.0
+beautifulsoup4==4.12.2
+
